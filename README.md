@@ -1,3 +1,7 @@
+- [本家様](https://github.com/sbintuitions/flexeval/)
+
+- trlで使用している`datasets`ライブラリとの競合を避けるため、`datasets`のバージョンのみ緩和しています
+
 # FlexEval
 
 ![logo](docs/assets/logo.png)
